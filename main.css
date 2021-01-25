@@ -1,0 +1,55 @@
+a {
+    color: blue;
+}
+a:hover {
+    color: cyan;
+}
+
+
+
+#testi {
+    color: yellowgreen;
+}
+
+
+
+
+
+
+table,
+td {
+    border: 1px solid rgb(51, 51, 51);
+}
+
+thead,
+tfoot {
+    background-color: black;
+    color:white;
+}
+
+
+
+
+form {
+    display: table;
+    color:rgb(54, 136, 126);
+}
+
+.erikoiskysely {
+    display: table;
+    color: red;
+}
+
+.supererikoiskysely {
+    display: table;
+    color: rgb(255, 0, 212);
+}
+
+.erikoistyyli {
+    padding: 10px;
+}
+
+.erikoistyyli666 {
+    padding: 100px;
+    border: 5px solid;
+}
